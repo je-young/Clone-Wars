@@ -1,9 +1,9 @@
 
 ![clone wars](img/og.png)
 
-# Clone Wars - Open source clones of popular sites
+# Clone Wars - 인기있는 사이트의 오픈 소스 클론
 
-> 100+ open-source clones and alternatives of popular sites like Airbnb, Amazon, Instagram, Netflix, TikTok, Spotify, WhatsApp, YouTube, etc. List contains source code, tutorials, demo links, tech stack, and GitHub stars count. Great for learning purpose!
+> Airbnb, Amazon, Instagram, Netflix, TikTok, Spotify, WhatsApp, YouTube 등과 같은 인기 사이트의 100개 오픈 소스 클론 및 대안. 목록에는 소스 코드, 자습서, 데모 링크, 기술 스택 및 GitHub 별 수가 포함되어 있습니다. 학습 목적으로 좋습니다!
 
 _-Made by_ <a href= "https://twitter.com/GorvGoyl" title="@GorvGoyl on twitter"> @GorvGoyl <img src="https://gourav.io/twitter.svg" style="vertical-align: middle;  width: 14px; height: 14px;" width="14" height="14" alt="@GorvGoyl on twitter"> </a>
 
@@ -19,29 +19,29 @@ _-Made by_ <a href= "https://twitter.com/GorvGoyl" title="@GorvGoyl on twitter">
   </a>
 </p>
 
-## See full tables with better view 👉 [gourav.io/clone-wars](https://gourav.io/clone-wars)
+## 더 나은 보기로 전체 테이블 보기 👉 [gourav.io/clone-wars](https://gourav.io/clone-wars)
 
 ---
 
 Want to see your/their repo in list? see [contribution guide](#contribution).
 
-### There are 2 tables:
+### 테이블이 2개 있어요:
 
-1. [Clones with Tutorials Table](#clones-with-tutorials)
+1. [자습서 테이블이 있는 클론](#clones-with-tutorials)
 
-   Full-stack clones with link to free tutorials.
+   무료 튜토리얼에 대한 링크가 있는 전체 스택 클론.
 
-2. [Clones / Alternatives Table](#clones-and-alternatives)
+2. [클론/대체 테이블](#clones-and-alternatives)
 
-   Two kinds of projects on this list:
+   이 목록에 있는 두 가지 종류의 프로젝트:
 
-   1. Clones: look quite similar (UI-wise) but aren't fully-functional, mostly made for learning purposes.
-   2. Alternatives: fully-functional open-source alternatives of popular software.  
-      Seeing GitHub stars will give you a rough idea about which one is which.
+   1. Clones: 매우 유사해 보이지만(UI 면에서) 완전히 작동하지 않으며 대부분 학습 목적으로 만들어졌습니다.
+   2. Alternatives: 인기 있는 소프트웨어의 완전한 기능을 갖춘 오픈 소스 대안.  
+      GitHub 별을 보면 어느 것이 어느 것인지 대략적인 아이디어를 얻을 수 있습니다.
 
-> Read the story behind this project: [My simple GitHub project went viral 🚀](https://gourav.io/blog/my-simple-github-project-went-viral)
+> 이 프로젝트의 비하인드 스토리 읽기: [내 간단한 GitHub 프로젝트가 입소문을 탔습니다. 🚀](https://gourav.io/blog/my-simple-github-project-went-viral)
 
-## Clones with Tutorials
+## clones with tutorials
 
 | Clone of  | Demo                                                                                                   | Tutorial / Course                                                                                                               | Repo                                                                                                                                  | Tech Stack                                                      |
 | --------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
@@ -58,7 +58,7 @@ Want to see your/their repo in list? see [contribution guide](#contribution).
 
 ## Clones and Alternatives
 
-_(scroll right on table to see all 5 columns)_
+_(5개의 열을 모두 보려면 테이블에서 오른쪽으로 스크롤하십시오.)_
 
 | Clone/Alt of                   | Demo                                                                                                                                                                   | Repo                                                                                                                                       | Tech stack                                                              | Repo Stars                                                                                                                                                                                     |
 | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -238,7 +238,7 @@ _(scroll right on table to see all 5 columns)_
 | Zapier                         | [n8n.io](https://n8n.io/)                                                                                                                                              | [GitHub](https://github.com/n8n-io/n8n)                                                                                                    | TypeScript, Vue, Docker                                                 | ![GitHub Repo stars](https://img.shields.io/github/stars/n8n-io/n8n)                                                                                                                           |
 | Zapier                         | [vimeo.com (gif)](https://vimeo.com/61976251)                                                                                                                          | [GitHub](https://github.com/huginn/huginn)                                                                                                 | Ruby                                                                    | ![GitHub Repo stars](https://img.shields.io/github/stars/huginn/huginn)                                                                                                                        |
 
-_Some link is broken or clone is not good enough? [report it](https://github.com/GorvGoyl/Clone-Wars/issues/new)_
+_일부 링크가 손상되었거나 복제가 충분하지 않습니까? [report it](https://github.com/GorvGoyl/Clone-Wars/issues/new)_
 
 ---
 
@@ -246,11 +246,11 @@ _Some link is broken or clone is not good enough? [report it](https://github.com
 
 Criteria:
 
-- It should be a clone/alternative of some popular software or app.
-- Project must have at least minimal functionality, please do not submit any 'UI only' clone.
-- Also, no more Trello, 2048 clones unless your tech-stack is different.
+- 일부 인기 있는 소프트웨어 또는 앱의 복제/대안이어야 합니다.
+- 프로젝트에는 최소한의 기능이 있어야 합니다. 'UI 전용' 클론을 제출하지 마세요.
+- 또한 기술 스택이 다른 경우가 아니면 더 이상 Trello, 2048 클론이 없습니다.
 
-Add clone to 1st table if you can also provide tutorial link else add it to 2nd table. Maintain alphabetical order while adding.
+튜토리얼 링크를 제공할 수 있는 경우 첫 번째 테이블에 클론을 추가하고 그렇지 않으면 두 번째 테이블에 추가합니다. 추가하는 동안 알파벳 순서를 유지하십시오.
 
 Edit [readme.md](https://github.com/GorvGoyl/Clone-Wars/blob/main/README.md) (_you may use online md editor like [dillinger.io](https://dillinger.io/) for better table visualization_) and send me a PR! Make sure there are no merge conflicts.
 
